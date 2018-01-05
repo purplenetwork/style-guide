@@ -1,5 +1,7 @@
 # Purple Network Frontend Style Guides - Javascript
 
+> **Note**: this guide assumes you are using Babel or our build system that includes it.
+
 ## Table of Contents
 
   1. [Types](#types)
