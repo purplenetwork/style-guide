@@ -1,6 +1,6 @@
 # Purple Network Frontend Style Guides
 
-*A mostly reasonable approach to Frontend Code*
+*A mostly reasonable approach to Code*
 
 
 Our Style Guides
